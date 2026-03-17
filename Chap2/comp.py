@@ -1,0 +1,5 @@
+a = int(input("Enter the value of a:"))
+b = int(input("Enter the value of b:"))
+print("a greater than b is:",a > b)
+print("the ave of these 2 no. is:",(a+b)/2)
+print("the square is:",a*a)
